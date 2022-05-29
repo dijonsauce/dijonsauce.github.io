@@ -11,16 +11,16 @@ const Lazyframe = () => {
   const elements = [];
 
   const defaults = {
-    vendor: undefined,
+    vendor: youtube,
     id: undefined,
-    src: undefined,
+    src: "https://www.youtube.com/embed/_5ghWKltHYg",
     thumbnail: undefined,
     title: undefined,
     initialized: false,
     y: undefined,
     debounce: 250,
-    lazyload: true,
-    autoplay: true,
+    lazyload: false,
+    autoplay: false,
     initinview: false,
     onLoad: (l) => {},
     onAppend: (l) => {},

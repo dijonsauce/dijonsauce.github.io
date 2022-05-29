@@ -21,11 +21,15 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
+        <!--[McCLUCKIN Home Screen.](assets/images/user-stories-pics/home-screen.png)-->
+
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about McCLUCKIN' products.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
+
+       <!--[McCLUCKIN Menu Screen.](assets/images/user-stories-pics/menu-screen.png)-->
 
     -   #### Frequent User Goals
         2. As a Frequent User, I want to check to see if there are any new posts.
@@ -34,7 +38,7 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used for McCLUCKIN' are red, and white. Red is associated with hunger so online viewers will feel hungry and more likely to order. 
-        [McCLUCKIN Colour Scheme Palette](assets/images/mccluckin-colour-scheme.png)
+        [McCLUCKIN Colour Scheme Palette.](assets/images/mccluckin-colour-scheme.png)
 
     -   #### Typography
         -   The Verdana font is the main font used throughout the whole website as its simplicity is both attractive and clear to read.
@@ -99,11 +103,8 @@ Note: The McCLUCKIN brand is a parody of fast food franchise especially KFC, Chi
      - This website was used to create the preview image of the project on various devices.
 1. [Coolors:](https://coolors.co/)
      - This website was used to create the colour scheme used by the project.
-1. [jQuery:](https://jquery.com/)
-
-1. [Bootstrap](https://getbootstrap.com/)
-
-  </head>
+<!--1. [jQuery:](https://jquery.com/)
+1. [Bootstrap](https://getbootstrap.com/)-->
 
 ## Testing
 
@@ -135,7 +136,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice.
-        2. The main points are made immediately with the hero image
+        2. The main points are made immediately with the hero image.
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
@@ -170,10 +171,12 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
         1. The user would already be comfortable with the website layout and can easily click the banner message.
 
-    2. As a Frequent User, I want to check to see if there are any new posts and events.
+    2. As a Frequent User, I want to check to see if there are any new posts and events regarding the restaurant.
 
     3. As a Frequent User, I want to follow the brand on social media so that I am notified of any major updates and/or changes to the website or organisation.
         1. At the bottom of every page there is a footer which contains the social media links.
+    
+    4. As a Freuent User, I want to bbe able to enjkoy the reference to Gaming & Pop Culture references on the website.
 
 ### Testing
 
@@ -192,7 +195,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navigation bar are pushed upwards when hovering over them.
 
--   Slideshow in menu.html & index.html may show and then disappear,  just refresh and it will come back.
+-   Slideshow in menu.html & index.html may show and then disappear, just refresh and it will come back.
 
 -   The assets/images/slideshow2-box-sale.png appears stretched.
 
@@ -248,7 +251,7 @@ Index page takes inspiration from the Homepage such as the title and the mobile 
 For the contact page content.
 
 -    Cluckin Bell [here](https://gta.fandom.com/wiki/CluckinBellHappyChicken.com):
-The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired by the sarcastic ficitional brand.
+The website no longer exists and the URL will redirect to the Rockstar Games' official websites but you can see that much of the text is heavily inspired by the sarcastic fictional brand.
 
 ### Media
 

@@ -1,6 +1,6 @@
-// Facade
-// Fake loading icon on video/widget for lazy third party loading from 
-// https://github.com/vb/lazyframe
+// Facade//
+// Fake loading icon on video/widget for lazy third party loading from //
+// https://github.com/vb/lazyframe//
 
 import './scss/lazyframe.scss'
 

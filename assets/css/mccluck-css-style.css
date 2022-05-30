@@ -65,7 +65,6 @@
   }
 
   img {
-    width: 100%;
     max-width: 100%;
     height: auto;
   }
@@ -104,6 +103,26 @@
     background-color: transparent;
     text-decoration: none;
   }
+
+
+/*Table*/
+table {
+  align-self: center;
+}
+
+tr {
+  align-self: center;
+  font-family: Verdana;
+  font-size: 16px;
+  color: black;
+}
+
+td {
+  align-self: center;
+  font-family: Verdana;
+  font-size: 16px;
+  color: black;
+}
 
 /*SLIDESHOW*/
 * {box-sizing:border-box}

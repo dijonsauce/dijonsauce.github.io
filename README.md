@@ -109,7 +109,7 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   [W3C Markup Validator](https://validator.w3.org/)
     -    [index.html](assets/docs/html-validation-index-html.png)
-    -    [menu.html](assets/docs.html-validation-menu-html.png)
+    -    [menu.html](assets/docs/html-validation-menu-html.png)
     -    [merchandise.html](assets/docs/html-validation-merchandise-html.png)
     -    [about_us.html](assets/docs/html-validation-about-us-html.png)
     -    [contact.html](assets/docs/html-validation-contact-html)
@@ -123,7 +123,13 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 -   [BeautifyTools](https://beautifytools.com/javascript-validator.php)
      -  [Slideshow JS](assets/docs/js-validation-slideshow-js.png)
 
--   [Prettier.io](https://prettier.io/)
+-   [Prettier.io](https://prettier.io/)#
+    -    [index.html](assets/docs/html-prettier-mc-index-html.png)
+    -    [menu.html](assets/docs/html-prettier-mc-menu-html.png)
+    -    [merchandise.html](assets/docs/html-prettier-mc-merchandise-html.png)
+    -    [about_us.html](assets/docs/html-prettier-mc-about-html.png)
+    -    [contact.html](assets/docs/html-prettier-mc-contact-html.png)
+    -    [careers.html](assets/docs/html-prettier-mc-careers-html.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -195,10 +201,20 @@ BeautifyTools was used to validate the JavaScript for slideshow.
 
 -   The assets/images/slideshow2-box-sale.png appears stretched.
 
+-   Menu images always aligning to the left.
+
+-   Slideshow extends past the rest of the page.
+
 
 ### Solved Bugs
 
 -    Navigation bar is now fixed to the top of the screen.
+
+-    Menu images align to the centre.
+
+-    Image scaling with the device screen size.
+
+-    Slideshow images all reduced to same size to prevent changing sizes.
 
 ## Deployment
 
